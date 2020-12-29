@@ -1,0 +1,17 @@
+.header-col{
+    flex-basis: 100%;
+}
+
+.row{
+    text-align: center;
+}
+
+.footer-col-1, .footer-col-2, .footer-col-3, .footer-col-4{
+    flex-basis: 100%;
+}
+.testimonial .col-3, .brands .col-5, .main-section .col-3, .main-section .col-4, 
+.col-2, .col-3, .col-4, .col-5 {
+    flex-basis: 100%;
+    /* text-align: center; */
+}
+
