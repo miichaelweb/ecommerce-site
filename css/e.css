@@ -16,7 +16,7 @@ body{
     margin: auto;
 }
 
-header{
+.main-header{
     background: radial-gradient(#fff, #ffd7d2);
 }
 
@@ -273,3 +273,17 @@ ul{
     display: none;
 }
 /* -------media query ------- */
+
+
+
+
+/* ------All Prouct Page---- */
+select{
+    border: 1px solid #ff523b;
+}
+select:focus{
+    outline: none;
+}
+.page-btn{
+    
+}
